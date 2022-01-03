@@ -50,6 +50,6 @@ An English qualified lawyer by background, he previously practiced in the UK as 
 
 Over the course of his legal career, he has worked with a wide range of stakeholders, having practiced both as an in-house lawyer, serving as legal counsel at one of Europe’s largest media and entertainment groups, and as an associate (in private practice) at two top 20 UK-ranked international law firms.
 
-His current research interests include: pharmaceutical regulation, and policy, healthcare politics, and health economics.
+His current research interests include: pharmaceutical regulation and policy, healthcare politics, and health economics.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
