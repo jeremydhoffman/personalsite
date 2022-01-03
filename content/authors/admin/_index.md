@@ -1,5 +1,5 @@
 ---
-bio: Jeremy is currently an MPP candidate and a graduate research assistant at the Penn State School of Public Policy. He is also an English-qualified attorney, and previously practices as an intellectual property lawyer in the UK. His research interests include pharmaceutical regulation and policy, healthcare politics, and health economics.
+bio: Jeremy is currently an MPP candidate and a graduate research assistant at the Penn State School of Public Policy. He is also an English-qualified attorney, and previously practiced as an intellectual property lawyer in the UK. His research interests include pharmaceutical regulation and policy, healthcare politics, and health economics.
 education:
   courses:
   - course: Master of Public Policy (MPP)
@@ -23,7 +23,7 @@ interests:
 organizations:
 - name: Penn State University
   url: https://publicpolicy.psu.edu/
-role: MPP Candidate
+role: MPP Candidate | Graduate Research Assistant
 social:
 - icon: envelope
   icon_pack: fas
@@ -52,4 +52,4 @@ Over the course of his legal career, he has worked with a wide range of stakehol
 
 His current research interests include: pharmaceutical regulation and policy, healthcare politics, and health economics.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download his {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
