@@ -1,27 +1,29 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: Jeremy is currently an MPP candidate and a graduate research assistant at the Penn State School of Public Policy. He is also an English-qualified attorney, and previously practices as an intellectual property lawyer in the UK. His research interests include pharmaceutical regulation and policy, healthcare politics, and health economics.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Master of Public Policy (MPP)
+    institution: Penn State University
+    year: 2023
+  - course: Postgraduate Diploma (PgDip) in Legal Practice
+    institution: BPP Law School
+    year: 2015
+  - course: Graduate Diploma (GDip) in Law
+    institution: BPP Law School
+    year: 2013
+  - course: Bachelor of Arts (BA Hons) in History
+    institution: London School of Economics & Political Science
+    year: 2012    
 email: ""
 highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Pharmaceutical Regulation & Policy
+- Healthcare Politics
+- Health Economics
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: Penn State University
+  url: https://publicpolicy.psu.edu/
+role: MPP Candidate
 social:
 - icon: envelope
   icon_pack: fas
