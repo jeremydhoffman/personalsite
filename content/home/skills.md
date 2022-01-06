@@ -9,25 +9,13 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Skills
+title: Technical Skills
 subtitle:
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description:
-  icon: chart-line
-  icon_pack: fas
-  name: Policy Analysis & Evaluation
-- description:
-  icon: bullhorn
-  icon_pack: fas
-  name: Negotiation & Advocacy
-- description:
-  icon: balance-scale
-  icon_pack: fas
-  name: Legal Analysis
 - description:
   icon: r-project
   icon_pack: fab
