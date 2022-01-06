@@ -7,9 +7,9 @@ widget: featurette
 headless: true
 
 # Order that this section appears on the page.
-weight: 41
+weight: 30
 
-title: Technical Skills
+title: Strengths
 subtitle:
 
 # Showcase personal skills or business features.
@@ -17,17 +17,18 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description:
-  icon: r-project
-  icon_pack: fab
-  name: R
-- description:
-  icon: python
-  icon_pack: fab
-  name: Python
-- description:
-  icon: chart-area
+  icon: chart-line
   icon_pack: fas
-  name: Tableau
+  name: Policy Analysis & Evaluation
+- description:
+  icon: balance-scale
+  icon_pack: fas
+  name: Legal Analysis
+- description:
+  icon: bullhorn
+  icon_pack: fas
+  name: Negotiation & Advocacy
+
 
 # Uncomment to use emoji icons.
 #- icon: ':smile:'
