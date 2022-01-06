@@ -21,27 +21,27 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: jdh6306@psu.edu
-phone: ''
-address: ''
-  street: ''
-  city: ''
-  region: ''
-  postcode: ''
-  country: ''
-  country_code: ''
+phone: ""
+address: ""
+  street: ""
+  city: ""
+  region: ""
+  postcode: ""
+  country: ""
+  country_code: ""
 coordinates:
-  latitude: ''
-  longitude: ''
-directions: ''
-office_hours: ''
-  - ''
-  - ''
-appointment_url: ''
+  latitude: ""
+  longitude: ""
+directions: ""
+office_hours: ""
+  - ""
+  - ""
+appointment_url: ""
 contact_links:
   - icon: twitter
     icon_pack: fab
     name: DM Me
-    link: 'https://twitter.com/Twitter'
+    link: 'https://twitter.com/jeremydhoffman'
   - icon: skype
     icon_pack: fab
     name: Skype Me
