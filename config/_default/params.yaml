@@ -30,22 +30,22 @@ address:
   country: United States
   country_code: US
 coordinates:
-  latitude: '40.826120'
-  longitude: '-77.852280'
+  latitude: '40.79818'
+  longitude: '-77.86415'
 directions: ""
-office_hours:
+office_hours: ""
   - ""
   - ""
 appointment_url: ""
-contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/jeremydhoffman'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'jeremydhoffman'
+contact_links: ""
+  - icon: ""
+    icon_pack: ""
+    name: ""
+    link: ""
+  - icon: ""
+    icon_pack: ""
+    name: ""
+    link: ""
 # Site header
 
 main_menu:
