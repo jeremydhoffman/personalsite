@@ -7,7 +7,7 @@
 
 theme: minimal
 day_night: true
-font: ''
+font: 'source_sans'
 font_size: L
 
 # SEO
