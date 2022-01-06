@@ -34,15 +34,6 @@ coordinates:
   longitude: '-77.86415'
 directions: ""
 appointment_url: ""
-contact_links: ""
-  - icon: ""
-    icon_pack: ""
-    name: ""
-    link: ""
-  - icon: ""
-    icon_pack: ""
-    name: ""
-    link: ""
 # Site header
 
 main_menu:
