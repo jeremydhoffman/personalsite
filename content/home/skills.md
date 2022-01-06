@@ -33,9 +33,9 @@ feature:
   icon_pack: fab
   name: R
 - description:
-  icon: phython
+  icon: python
   icon_pack: fab
-  name: Phython
+  name: Python
 - description:
   icon: chart-area
   icon_pack: fas
