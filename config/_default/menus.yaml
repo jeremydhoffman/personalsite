@@ -4,21 +4,15 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
+  - name: Bio
     url: '#about'
     weight: 10
   - name: Résumé
     url: 'https://jeremydhoffman.com/uploads/resume.pdf'
     weight: 20
-  - name: Posts
+  - name: Blog
     url: '#posts'
     weight: 30
-  - name: Projects
-    url: '#projects'
-    weight: 40
-  - name: Publications
-    url: '#publications'
-    weight: 50
   - name: Contact
     url: '#contact'
-    weight: 60
+    weight: 40
