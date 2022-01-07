@@ -20,18 +20,18 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: jdh6306@psu.edu
+email: ""
 phone: ""
 address: 
-  street: Penn State School of Public Policy, 322 Pond Lab
-  city: University Park
-  region: PA
-  postcode: '16802'
-  country: United States
-  country_code: US
+  street: ""
+  city: ""
+  region: ""
+  postcode: ""
+  country: ""
+  country_code: ""
 coordinates:
-  latitude: '40.79818'
-  longitude: '-77.86415'
+  latitude: ""
+  longitude: ""
 directions: ""
 appointment_url: ""
 # Site header
