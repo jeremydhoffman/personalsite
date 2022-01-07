@@ -1,5 +1,5 @@
 ---
-bio: Jeremy is currently an MPP candidate and a graduate research assistant at the Penn State School of Public Policy. He is also an English-qualified attorney, and previously practiced as an intellectual property lawyer in the UK. His research interests include pharmaceutical regulation and policy, healthcare politics, and health economics.
+bio: Jeremy is currently an MPP candidate and graduate research assistant at the Penn State School of Public Policy. He is also an English-qualified attorney, and previously practiced as an intellectual property lawyer in the UK. His research interests include pharmaceutical regulation and policy, healthcare politics, health economics, and the social determinants of health.
 education:
   courses:
   - course: Master of Public Policy (MPP)
@@ -20,6 +20,7 @@ interests:
 - Pharmaceutical Regulation & Policy
 - Healthcare Politics
 - Health Economics
+- Social Determinants of Health
 organizations:
 - name: Penn State University
   url: https://publicpolicy.psu.edu/
@@ -44,12 +45,12 @@ superuser: true
 title: Jeremy Hoffman
 ---
 
-Jeremy Hoffman is currently an MPP candidate and a graduate research assistant at the Penn State School of Public Policy.
+Jeremy Hoffman is currently an MPP candidate and graduate research assistant at the Penn State School of Public Policy.
 
 An English qualified lawyer by background, he previously practiced in the UK as an intellectual property attorney, advising clients operating in the pharmaceutical, food & beverage, media, and technology industries. 
 
 Over the course of his legal career, he has worked with a wide range of stakeholders, having practiced both as an in-house lawyer, serving as legal counsel at one of Europe’s largest media and entertainment groups, and as an associate (in private practice) at two top 20 UK-ranked international law firms.
 
-His current research interests include: pharmaceutical regulation and policy, healthcare politics, and health economics.
+His current research interests include: pharmaceutical regulation and policy, healthcare politics, health economics, and the social determinants of health.
 
-{{< icon name="download" pack="fas" >}} Download his {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download his {{< staticref "uploads/resume.pdf" "newtab" >}}résumé{{< /staticref >}}.
