@@ -1,0 +1,28 @@
+---
+title: Test R Markdown Post
+author: admin
+date: '2022-01-07'
+slug: test-r-markdown-post
+categories:
+  - R
+tags:
+  - R Markdown
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2022-01-07T21:10:14-05:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+Let's insert some text here, followed by a *scatter plot* generated with ggplot2.
+
+```{r, echo=FALSE}
+library(ggplot2)
+ggplot(diamonds, aes(x=carat, y=price, color=clarity)) + geom_point()
+```
+
