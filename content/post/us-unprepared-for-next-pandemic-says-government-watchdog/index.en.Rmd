@@ -20,7 +20,7 @@ projects: []
 
 **The non-partisan Government Accountability Office (GAO) has this week added the US Department of Health and Human Services’ (HHS) leadership and coordination of public health emergencies to its “high risk list”.**
 
-In its accompanying [report](https://www.gao.gov/assets/gao-22-105291.pdf), GAO claims that there have been persistent deficiencies in HHS’ ability to prepare for, and respond to, public health emergencies, citing the department's response to the current COVID-19 pandemic and a number of past threats, including the H1N1 influenza pandemic, Zika, Ebola, and extreme weather events, such as hurricanes.
+In its accompanying [report](https://www.gao.gov/assets/gao-22-105291.pdf), GAO claims there have been persistent deficiencies in HHS’ ability to prepare for, and respond to, public health emergencies, citing the department's response to the current COVID-19 pandemic and a number of past threats, including the H1N1 influenza pandemic, Zika, Ebola, and extreme weather events, such as hurricanes.
 
 Moreover, GAO claims that *"if left unaddressed, these deficiencies will continue to hamper the nation’s ability to be prepared for, and effectively respond to, future threats"*.
 
