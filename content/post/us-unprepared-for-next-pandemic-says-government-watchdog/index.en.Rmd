@@ -8,7 +8,7 @@ tags: []
 subtitle: ''
 summary: ''
 authors: []
-lastmod: '2022-01-29T20:36:00-05:00'
+lastmod: ''
 featured: no
 image:
   caption: 'Image credit: [**Markus Spiske**](https://www.pexels.com/@markusspiske)'
@@ -20,9 +20,9 @@ projects: []
 
 **The non-partisan Government Accountability Office (GAO) has this week added the US Department of Health and Human Services’ (HHS) leadership and coordination of public health emergencies to its “high risk list”.**
 
-In a [report](https://www.gao.gov/assets/gao-22-105291.pdf) published this week, GAO claims that there have been persistent deficiencies in HHS’ ability to prepare for, and respond to, public health emergencies – citing the department's response to the current COVID-19 pandemic and a number of past threats, including the H1N1 influenza pandemic, Zika, Ebola, and extreme weather events, such as hurricanes.
+In a [report](https://www.gao.gov/assets/gao-22-105291.pdf) published this week, GAO claims that there have been persistent deficiencies in HHS’ ability to prepare for, and respond to, public health emergencies, citing the department's response to the current COVID-19 pandemic and a number of past threats, including the H1N1 influenza pandemic, Zika, Ebola, and extreme weather events, such as hurricanes.
 
-Moreover, GAO claims that "if left unaddressed, these deficiencies will continue to hamper the nation’s ability to be prepared for, and effectively respond to, future threats".
+Moreover, GAO claims that *"if left unaddressed, these deficiencies will continue to hamper the nation’s ability to be prepared for, and effectively respond to, future threats"*.
 
 {{% callout note %}}
 GAO’s “High Risk List”, which is issued every two years at the start of each new session of Congress, lists federal programs and operations that are deemed by the GAO vulnerable to fraud, waste, abuse, and mismanagement, or need transformation.
@@ -44,15 +44,15 @@ Discussing HHS’ track record, the report takes note of the following failings:
 
 ##### *Decision-making roles for national biodefense resources*
 
-GAO claims that HHS has thus far failed to adequately document decision-making roles among members of the Biodefense Steering Committee and Coordination Team (the body which facilitates joint decision-making for the National Biodefense Strategy). In a previous report, published in February 2020, GAO reported that there that there were no clear, detailed processes, roles, and responsibilities for joint decision-making among the Biodefense Steering Committee and Coordination Team, and that HHS officials reported being unsure how decisions related to prioritizing and allocating national biodefense resources would be made. This, GAO suggests, has the potential to “impede the ability of agencies to address gaps or leverage resources that span department and agency boundaries, which is frequently the situation for biodefense”.
+GAO claims that HHS has thus far failed to adequately document decision-making roles among members of the Biodefense Steering Committee and Coordination Team (the body which facilitates joint decision-making for the National Biodefense Strategy). In a previous report, published in February 2020, GAO reported that there that there were no clear, detailed processes, roles, and responsibilities for joint decision-making among the Biodefense Steering Committee and Coordination Team, and that HHS officials reported being unsure how decisions related to prioritizing and allocating national biodefense resources would be made. This, GAO suggests, has the potential to *“impede the ability of agencies to address gaps or leverage resources that span department and agency boundaries, which is frequently the situation for biodefense”*.
 
 ##### *HHS agencies’ roles and responsibilities in repatriating US citizens during the COVID-19 pandemic*
 
-Similarly, the report notes that while repatriating US citizens during the earlier stages of the COVID-19 pandemic, HHS put repatriates, its own personnel, and nearby communities at risk due to a lack of clarity as to which HHS agency was in charge, including which HHS agency was responsible for managing infection prevention. GAO suggests that this led to fundamental led to problems including a delay in issuing a federal quarantine order, during which time a repatriate tried to leave the quarantine facility; inconsistent use of personal protective equipment to protect HHS responders from the virus; and ASPR allowing asymptomatic COVID-19 positive repatriates to return on flights with citizens who had not tested positive, contradicting CDC guidance. GAO claims that, at the time of issuing their report, HHS had not fully addressed GAO’s recommendations to revise or develop new plans that clarify agency roles and responsibilities during a pandemic, and regularly exercise these plans with key partners.
+Similarly, the report notes that while repatriating US citizens during the earlier stages of the COVID-19 pandemic, HHS put repatriates, its own personnel, and nearby communities at risk due to a lack of clarity as to which HHS agency was in charge, including which HHS agency was responsible for managing infection prevention. GAO suggests that this led to fundamental led to problems including a delay in issuing a federal quarantine order, during which time a repatriate tried to leave the quarantine facility; inconsistent use of personal protective equipment to protect HHS responders from the virus; and ASPR allowing asymptomatic COVID-19 positive repatriates to return on flights with citizens who had not tested positive, contradicting CDC guidance. GAO claims that HHS has not yet fully addressed GAO’s recommendations to revise or develop new plans that clarify agency roles and responsibilities during a pandemic, and regularly exercise these plans with key partners.
 
 ##### *HHS’s role in medical countermeasure management*
 
-GAO also note the continued shortage of effective medical countermeasures, which include vaccines, drugs, diagnostics, and related supplies, such as PPE. The report claims that the current pandemic has highlighted gaps in clearly defined roles and responsibilities for the management of critical supplies, including the Strategic National Stockpile (SNS). GAO also states that, despite its previous recommendation, HHS has thus far failed to work with the Federal Emergency Management Agency (FEMA) to outline specific actions the federal government will take to help mitigate supply chain shortages for the remainder of the pandemic. 
+GAO also note the continued shortage of effective medical countermeasures, which include vaccines, drugs, diagnostics, and related supplies, such as PPE. The report claims that the current pandemic has highlighted gaps in clearly defined roles and responsibilities for the management of critical supplies, including the Strategic National Stockpile (SNS). GAO also states that, despite previous recommendations, HHS has thus far failed to work with the Federal Emergency Management Agency (FEMA) to outline specific actions the federal government will take to help mitigate supply chain shortages for the remainder of the pandemic. 
 
 ##### *Collection and analysis of data to inform decision-making and future preparedness*
 
@@ -60,7 +60,7 @@ The report also highlights the incomplete and inconsistent nature of data that H
 
 ##### *Clarity and consistency of communication to key partners and the public*
 
-GAO’s assessment of the HHS’ ability communicate effectively with key stakeholders is particularly damning. They suggest that, during critical incidents, HHS has often provided unclear and inconsistent communications. For example, the report notes that some stakeholders said states often did not have information critical to COVID-19 distribution at the local level, such as how many doses they would receive and when. Similarly, GAO claims that there has also been inconsistent communication to health care providers about the use of certain PPE – specifically citing the inconsistent information on the recommended use of decontamination systems for respirators between FDA and CDC, which, they cite, led to some confusion and hesitancy among providers about using such devices. GAO also claims that HHS has failed to issue a publicly available and comprehensive national testing strategy, which, they suggest, has lead to the public lacking crucial information to support an informed and coordinated testing response.
+GAO’s assessment of the HHS’ ability communicate effectively with key stakeholders is particularly damning. GAO claims that, during critical incidents, HHS has often provided unclear and inconsistent communications. For example, the report notes that some stakeholders said states often did not have information critical to COVID-19 distribution at the local level, such as how many doses they would receive and when. Similarly, GAO states that there has also been inconsistent communication to health care providers about the use of certain PPE – specifically citing the inconsistent information on the recommended use of decontamination systems for respirators between FDA and CDC, which, they suggest, led to some confusion and hesitancy among providers about using such devices. GAO also claims that HHS has failed to issue a publicly available and comprehensive national testing strategy, which has lead to the public lacking crucial information to support an informed and coordinated testing response.
 
 ## **Recommendations going forward**
 
