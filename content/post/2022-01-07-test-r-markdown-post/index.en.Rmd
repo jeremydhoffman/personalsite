@@ -17,6 +17,7 @@ image:
   focal_point: ''
   preview_only: no
 projects: []
+draft: true
 ---
 
 Let's insert some text here, followed by a *scatter plot* generated with ggplot2.
