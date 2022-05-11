@@ -38,7 +38,19 @@ experience:
         * Preparing policy briefs and reports.
         * Data analysis, including collation of secondary data, data wrangling, data extraction, statistical analyses, and data visualization, utilizing R, Stata, and QGIS.
         * Providing teaching assistance for graduate-level statistics classes (PPOL503 and PPOL506), including conducting R programming labs/workshops and tutoring individual students to develop their R programming/statistics skills.<br>
-        
+
+  - title: Business Development & Strategy Consultant
+    company: Self-employed
+    company_url: ''
+    company_logo: ''
+    location: Pennsylvania, US
+    date_start: '2020-01-14'
+    date_end: '2021-07-31'
+    description: |2-
+        Advised a large-scale Pennsylvania-based dairy operation on business development strategies, including diversification options.
+        * Prepared market research reports and feasibility analyses.
+        * Developed and implemented business plan for online and physical retail store for sale of farm-raised produce, including development, construction, and licensing of on-farm retail food facility and development of new farm website and online store.
+   
   - title: Legal Counsel
     company: Global Media & Entertainment Group
     company_url: ''
