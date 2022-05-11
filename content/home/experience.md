@@ -34,13 +34,10 @@ experience:
         <br>
         <br>
         Responsibilities include:  
-        * Conducting literature reviews
-        * Legal research and analysis
-        * Collation and analysis of secondary data utilizing R, ArcGIS, and Stata.<br>
-        
-        <br>Current research projects:
-        - *Investigating well-being and inequality in the Chesapeake Bay Watershed*, with Dr. E. Pakhtigian and Dr. S. Mainzer (PI).<br>
-        - *Assessing distributional effects of coal-fired plant operations on pollution and health*, with Dr. E. Pakhtigian (PI), Dr. W. Peng, and H. Wiseman.
+        * Conducting literature reviews, policy & legal research and analyses.
+        * Preparing policy briefs and reports.
+        * Data analysis, including collation of secondary data, data wrangling, data extraction, statistical analyses, and data visualization, utilizing R, Stata, and QGIS.
+        * Providing teaching assistance for graduate-level statistics classes (PPOL503 and PPOL506), including conducting R programming labs/workshops and tutoring individual students to develop their R programming/statistics skills.<br>
         
   - title: Legal Counsel
     company: Global Media & Entertainment Group
