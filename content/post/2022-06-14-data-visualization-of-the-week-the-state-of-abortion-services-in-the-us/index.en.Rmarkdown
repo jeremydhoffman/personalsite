@@ -24,3 +24,9 @@ This summer, I’ve decided to put my newly acquired data analysis and visualiza
 For the first visualization in this series, I decided to focus on the issue of abortion services. With the Supreme Court’s decision in Dobbs v. Jackson Women’s Health Organization expected imminently, now seems a particularly opportune time to consider the current state of abortion services in the U.S.
 
 The choropleth map shown above depicts the average travel distance to the nearest abortion clinic in each county. The data represented here are from June 2021, although it is clear the distance that those seeking abortions must travel has increased in recent years. In 2009, the average distance to the nearest abortion clinic (across all counties) was 74.1 miles. By, 2021, it had increased 78.0 miles - this might sound like a small increase, but what these averages mask is the fact that some women have been forced to travel substantially further distances to obtain medical care.
+
+![abortion animated](images/preview.gif)
+
+
+
+
