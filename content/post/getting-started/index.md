@@ -46,7 +46,7 @@ title: Welcome to Wowchemy, the website builder for Hugo
 
 ## Crowd-funded open-source software
 
-To help us develop this template and software in a sustainable manner under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
+To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
 
 ### [❤️ Click here to become a sponsor and help support Wowchemy's future ❤️](https://wowchemy.com/plans/)
 
