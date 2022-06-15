@@ -1,5 +1,5 @@
 ---
-title: 'Data Visualization of the Week: The State of Abortion Services in the US'
+title: 'Data Visualization of the Week: the State of Abortion Services in the US'
 author: admin
 date: '2022-06-14'
 slug: data-visualization-of-the-week-the-state-of-abortion-services-in-the-us
