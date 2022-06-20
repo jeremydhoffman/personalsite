@@ -17,9 +17,21 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description:
+  icon: landmark
+  icon_pack: fas
+  name: Policy & Legislative Analysis
+- description:
+  icon: thumbs-up
+  icon_pack: fas
+  name: Program Evaluation
+- description:
   icon: chart-line
   icon_pack: fas
-  name: Policy Analysis & Evaluation
+  name: Quantitative Data Analysis
+- description:
+  icon: chart-pie
+  icon_pack: fas
+  name: Data Visualization
 - description:
   icon: balance-scale
   icon_pack: fas
@@ -27,7 +39,7 @@ feature:
 - description:
   icon: bullhorn
   icon_pack: fas
-  name: Negotiation & Advocacy
+  name: Advocacy
 
 
 # Uncomment to use emoji icons.

@@ -1,5 +1,5 @@
 ---
-bio: Jeremy is currently an MPP candidate and graduate research assistant at the Penn State School of Public Policy. He is also an English-qualified attorney, and previously practiced as an intellectual property lawyer in the UK. His interests include pharmaceutical regulation and policy, healthcare politics, and health economics.
+bio: Jeremy is currently an MPP candidate and graduate research assistant at the Penn State School of Public Policy. He is also an English-qualified attorney, and previously practiced as an intellectual property lawyer in the UK. His policy interests include substance misuse (in particular, the misuse of prescription opioids), pharmaceutical policy & regulation, healthcare access & costs, and food policy & obesity.
 education:
   courses:
   - course: Master of Public Policy (MPP)
@@ -17,9 +17,10 @@ education:
 email: ""
 highlight_name: true
 interests:
+- Substance Misuse
 - Pharmaceutical Regulation & Policy
-- Healthcare Politics
-- Health Economics
+- Healthcare Access & Costs
+- Food Policy & Obesity
 organizations:
 - name: Penn State University
   url: https://publicpolicy.psu.edu/
@@ -50,6 +51,10 @@ An English qualified lawyer by background, he previously practiced in the UK as 
 
 Over the course of his legal career, he has worked with a wide range of stakeholders, having practiced both as an in-house lawyer, serving as legal counsel at one of Europe’s largest media and entertainment groups, and as an associate (in private practice) at two top 20 UK-ranked international law firms.
 
-His interests include: pharmaceutical regulation and policy, healthcare politics, and health economics.
+In addition to his legal training, he is also a skilled health policy researcher/analyst, trained in quantitative data analysis, policy analysis, and program evaluation.
+
+His policy interests include: substance misuse (in particular, the misuse of prescription opioids), pharmaceutical regulation and policy, healthcare access and costs, and food policy & obesity.
+
+He is also currently serving as the President of the Penn State Public Policy Association (PSPPA) and is the Founding Editor and current Editor-in-Chief of the Penn State Public Policy Journal (PSPPJ), Penn Stat's student-led public policy journal.
 
 {{< icon name="download" pack="fas" >}} Download his {{< staticref "uploads/resume.pdf" "newtab" >}}résumé{{< /staticref >}}.

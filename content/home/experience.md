@@ -37,7 +37,6 @@ experience:
         * Conducting literature reviews, policy & legal research and analyses.
         * Preparing policy briefs and reports.
         * Data analysis, including collation of secondary data, data wrangling, data extraction, statistical analyses, and data visualization, utilizing R, Stata, and QGIS.
-        * Providing teaching assistance for graduate-level statistics classes (PPOL503 and PPOL506), including conducting R programming labs/workshops and tutoring individual students to develop their R programming/statistics skills.<br>
 
   - title: Business Development & Strategy Consultant
     company: Self-employed
