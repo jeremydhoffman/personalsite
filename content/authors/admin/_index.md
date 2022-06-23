@@ -52,6 +52,6 @@ Over the course of his legal career, he has worked with a wide range of stakehol
 
 In addition to his legal training, he is also a skilled health policy researcher/analyst, trained in quantitative data analysis, policy analysis, and program evaluation.
 
-He is currently serving as the President of the Penn State Public Policy Association (PSPPA) and is the Founding Editor and current Editor-in-Chief of the Penn State Public Policy Journal (PSPPJ), Penn Stat's student-led public policy journal.
+He is currently serving as the President of the Penn State Public Policy Association (PSPPA) and is the Founding Editor and current Editor-in-Chief of the Penn State Public Policy Journal (PSPPJ), Penn State's student-led public policy journal.
 
 {{< icon name="download" pack="fas" >}} Download his {{< staticref "uploads/resume.pdf" "newtab" >}}résumé{{< /staticref >}}.
