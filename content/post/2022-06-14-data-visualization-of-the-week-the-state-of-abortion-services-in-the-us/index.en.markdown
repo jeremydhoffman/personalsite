@@ -8,7 +8,7 @@ tags: []
 subtitle: ''
 summary: ''
 authors: []
-lastmod: '2022-06-14T22:10:37-04:00'
+lastmod:
 featured: no
 image:
   placement: 1
