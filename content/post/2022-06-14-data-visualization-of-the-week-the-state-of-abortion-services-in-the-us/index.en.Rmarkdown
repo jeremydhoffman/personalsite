@@ -25,7 +25,7 @@ For the first visualization in this series, I decided to focus on the issue of a
 The choropleth map shown above depicts the average travel distance (in miles) to the nearest abortion clinic in each county. The data represented here are from June 2021, although it is clear that average travel distances have increased in recent years. This can be seen in the animated choropleth map shown below.
 
 ![abortion animated](images/abortion_animated.gif)
-In 2009, the average distance to the nearest abortion clinic (across all counties) was 74.1 miles. By 2021, it had increased 78 miles. This might sound like a small increase, but what these national averages mask is the fact that some women have been forced to travel substantially further to obtain medical care. Notice, for example, how the travel distances visibly increase in western Texas and New Mexico (as denoted by the orange and yellow coloring on the choropleth map). 
+In 2009, the average distance to the nearest abortion clinic (across all counties) was 74.1 miles. By 2021, it had increased to 78 miles. This might sound like a small increase, but what these national averages mask is the fact that some women now have to travel substantially further to obtain medical care. Notice, for example, how the travel distances visibly increase in western Texas and New Mexico (as denoted by the increasingly orange and yellow coloring on the choropleth map in these areas). 
 
 As of June 2021, the county with the highest average travel distance was Divide County, North Dakota, with an average travel distance of 383.57 miles, whereas the county with the lowest average travel distance was Essex County, New Jersey, with an average travel distance of 0.20 miles.
 
