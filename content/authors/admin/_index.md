@@ -1,5 +1,5 @@
 ---
-bio: Jeremy is currently an MPP candidate and Graduate Research Assistant at the Penn State School of Public Policy. He is also an English-qualified attorney, and previously practiced as an intellectual property lawyer in the UK. His policy interests include substance misuse (in particular, the misuse of prescription opioids), pharmaceutical policy & regulation, and healthcare access & costs.
+bio: Jeremy is currently an MPP candidate and Graduate Research Assistant at the Penn State School of Public Policy. He is also an English-qualified attorney, and previously practiced as an intellectual property lawyer in the UK. His policy interests include population health, substance misuse & drug policy, and healthcare access & costs.
 education:
   courses:
   - course: Master of Public Policy (MPP)
@@ -17,8 +17,8 @@ education:
 email: ""
 highlight_name: true
 interests:
-- Substance Misuse
-- Pharmaceutical Regulation & Policy
+- Population Health
+- Substance Misuse & Drug Policy
 - Healthcare Access & Costs
 organizations:
 - name: Penn State University
