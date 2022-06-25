@@ -44,14 +44,14 @@ superuser: true
 title: Jeremy Hoffman
 ---
 
-Jeremy Hoffman is currently a Master of Public Policy (MPP) candidate and Graduate Research Assistant at the Penn State School of Public Policy.
+I am currently a Master of Public Policy (MPP) candidate and Graduate Research Assistant at the Penn State School of Public Policy.
 
-He is a skilled health policy researcher/analyst, trained in legislative and policy analysis, quantitative data analysis, and program evaluation.
+I am a skilled health policy researcher/analyst, trained in legislative and policy analysis, quantitative data analysis, and program evaluation.
 
-In addition to his health policy expertise, he is also an English-qualified lawyer, with over four years’ experience advising clients in the pharmaceutical, food & beverage, media, and technology industries on a range of commercial, litigious, and regulatory / policy-related matters.
+In addition to my health policy expertise, I am also an English-qualified lawyer, with over four years’ experience advising clients in the pharmaceutical, food & beverage, media, and technology industries on a range of commercial, litigious, and regulatory / policy-related matters.
 
-Over the course of his legal career, he has worked with a wide range of stakeholders, having practiced both as an in-house lawyer, serving as legal counsel at one of Europe’s largest media and entertainment groups, and as an associate (in private practice) at two top 20 UK-ranked international law firms.
+Over the course of my legal career, I have worked with a wide range of stakeholders, having practiced both as an in-house lawyer, serving as legal counsel at one of Europe’s largest media and entertainment groups, and as an associate (in private practice) at two top 20 UK-ranked international law firms.
 
-He is also currently serving as the President of the Penn State Public Policy Association (PSPPA) and is the Founding Editor and current Editor-in-Chief of the Penn State Public Policy Journal (PSPPJ), Penn State’s student-led public policy journal.
+I am also currently serving as the President of the Penn State Public Policy Association (PSPPA) and am the Founding Editor and current Editor-in-Chief of the Penn State Public Policy Journal (PSPPJ), Penn State’s student-led public policy journal.
 
-{{< icon name="download" pack="fas" >}} Download his {{< staticref "uploads/resume.pdf" "newtab" >}}résumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}résumé{{< /staticref >}}.
