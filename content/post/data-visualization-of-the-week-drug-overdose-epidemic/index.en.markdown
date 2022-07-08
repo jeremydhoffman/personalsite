@@ -64,7 +64,7 @@ The following interactive choropleth map provides a snapshot of estimated crude 
 
 {{% staticref "/leaflet/od_rates_2020_map.html" "newtab" %}}Click to view the interactive map in full-screen mode{{% /staticref %}}
 
-<iframe src="/leaflet/od_rates_2020_map.html" width = "100%", height = "500"></iframe>
+<iframe seamless = "" width = "100%", height = "500" class = "shortcode-iframe" src="/leaflet/od_rates_2020_map.html"></iframe>
 
 {{% callout note %}}
 Note: There are a small number of counties for which estimates are not available. These are shown as transparent tiles in the interactive choropleth map. 
