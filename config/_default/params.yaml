@@ -137,5 +137,9 @@ cms:
 icon:
   pack:
     ai: false
+    
+# Security
+
 security:
+  # Allow frame for embedding
   allow_frame: true

@@ -45,7 +45,7 @@ permalinks:
   publication_types: '/publication-type/:slug/'
 disableAliases: true
 outputs:
-  home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
+  home: [HTML, RSS, JSON, WebAppManifest, headers, redirects, headers]
   section: [HTML, RSS]
 imaging:
   resampleFilter: lanczos
@@ -59,9 +59,6 @@ taxonomies:
   author: authors
 markup:
   _merge: deep
-  goldmark:
-    renderer:
-      unsafe: true
 related:
   threshold: 80
   includeNewer: true
