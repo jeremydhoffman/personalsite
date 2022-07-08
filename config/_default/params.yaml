@@ -137,3 +137,5 @@ cms:
 icon:
   pack:
     ai: false
+security:
+  allow_frame: true
