@@ -142,4 +142,4 @@ icon:
 
 security:
   # Allow frame for embedding
-  allow_frame: true
+  allow_frame: false
